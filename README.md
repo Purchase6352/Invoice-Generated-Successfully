@@ -1,27 +1,18 @@
-Dear Customer,
-Thank you for your $495.52 purchase. Your one-year subscription to Norton 360 Life Lock  is now active. At any time, you can modify, cancel, or change your plan. Ask the customer for assistance. 
+YOUR ORDER HAS BEEN CONFIRMED!!!!
 
-Order Number: JS47-JHD8-JS4
-Transaction Date: April 09, 2026
-Product :- Norton 360 Life Lock
-Transaction Status: Completed
-Total Amount: $495.52 USD
-**********************************************************
-CLIENT ASSISTANCE DESK
-Phone:  +1 (877) 411-2883
-Availability: Monday–Friday, 9:00 AM–6:00 PM ET
-**********************************************************
-Transaction Details
-Payment Method :- PayPal
-Description Quantity Amount (USD)
-Total Paid: $495.52 USD
-Should you require any clarification regarding this record, reach out to our Client Support team at your earliest convenience:
-**********************************************************
-CLIENT ASSISTANCE DESK
-Phone:  +1 (877) 411-2883
-Availability: Monday–Friday, 9:00 AM–6:00 PM ET
-**********************************************************
-In the event that you did not authorize this purchase, contact Client Support immediately to secure your account credentials.
-System-generated notification. Direct replies are not monitored by the administration.
-Billing Team
-Please view your receipt attached below:
+Hello Customer,
+
+We are pleased to inform you that your recent transaction has been successfully finalized. Below, you will find a breakdown of your payment information for your records.
+
+DESCRIPTION:-
+Invoice ID:  84215726397
+Service: Norton LifeLock Security
+Amount: $439.99
+Payment Method: PayPal
+Help Line No: +1 (806) 218-7862
+
+SUPPORT INFORMATION
+If you did not authorize this payment or require assistance, please contact our support team:
+24/7 Customer Support:  +1 (806) 218-7862
+
+Thank you for your continued trust in our services.
